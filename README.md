@@ -1,5 +1,7 @@
 ### HTML Engine (Rust-based Experimental Browser)
 
+![HTML Engine in example.com ](https://github.com/user-attachments/assets/3fd7fdf2-d7f0-49e1-aa05-3f10676d420d)
+
 This project is an experimental HTML engine built with Rust, combining web scraping, file system manipulation, and a graphical user interface (GUI) using GTK. It demonstrates how to fetch and parse HTML content from a webpage, extract specific elements, and display them in a GTK-based window.
 
 #### Features
